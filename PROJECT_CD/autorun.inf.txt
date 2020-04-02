@@ -1,0 +1,7 @@
+﻿[autorun]
+open=README_IMP.txt
+open=PROJECT_DATA.exe
+open=MR_setup.exe
+Icon=icon.ico
+Name=Mage_Runner
+Label=Mage_Runner

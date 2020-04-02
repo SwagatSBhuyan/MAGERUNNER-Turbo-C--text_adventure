@@ -1,0 +1,20 @@
+This game is a text-adventure type of game, where the game proceeds like a story.
+ Depending on your choices, the program will evaluate your score, 
+relationship with various elements and characters in the game and your overall Level. 
+The texts are being called in by the ‘Delayer’ function to give it the Type-writer effect, 
+along with the sounds.
+
+The story, as of now, has up to 3 variations, branching in – 
+                   1. Continent selection
+                   2. Passing Tournament Quiz
+                   3. Failing Tournament Quiz
+
+The game has an Autosave mechanism, which saves your progress at certain checkpoints inside
+ the game. You can quit the game anytime you like by pressing the ‘/’ button whenever 
+the texts have been displayed, or any other situation.
+The game stores a final score, storing your overall score, evaluating you on ethics and 
+morale, and sometimes, wit and intellect. It also stores your relationship score with 
+various characters in the game, which increase with favors and tasks aiding them. 
+The game stores your level (1,2,3) in the external file as well.
+The game is filled with up to 4-5 graphic depictions and games, each storyline accessing 
+some of them, depending on which storyline you are playing.
