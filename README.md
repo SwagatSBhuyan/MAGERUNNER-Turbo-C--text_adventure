@@ -1,4 +1,5 @@
-********************************* MAGE_RUNNER (DEMO) *************************************
+MAGE_RUNNER (DEMO)
+*******************************************************************************************
 
 THIS IS A GAME DEVELOPED AS A PROJECT FOR THE CBSE BOARD COMPUTER SCIENCE
 PRACTICAL BY THE STUDENTS OF CLASS XII/A.
